@@ -7,304 +7,304 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		020A44D77310919E4449DA35 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03081C74695D6A9F028B48F2 /* Foundation.framework */; };
-		1366C724F3BF7235EFB2910C /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 290D8C96E3876B105008B228 /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-dummy.m */; };
-		19A463B68064B3794386B6C3 /* Pods-TTQRCodeScanner_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5A821226E63C441FBB873093 /* Pods-TTQRCodeScanner_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2F688D8665F64910A0FD8223 /* TTPlayAudio.m in Sources */ = {isa = PBXBuildFile; fileRef = C8B7644A1112C5EB7012AA05 /* TTPlayAudio.m */; };
-		4A23BFFF39376C4F3D1FCE12 /* TTQRCodeScanner.m in Sources */ = {isa = PBXBuildFile; fileRef = AE152B8C40812FEA97BBD775 /* TTQRCodeScanner.m */; };
-		5DC959B7982F0991B0874EEC /* Pods-TTQRCodeScanner_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D94C2F3AEE246322F086EFA /* Pods-TTQRCodeScanner_Example-dummy.m */; };
-		687389A0DBB0BBFD22277A3C /* TTPlayAudio.m in Sources */ = {isa = PBXBuildFile; fileRef = C8B7644A1112C5EB7012AA05 /* TTPlayAudio.m */; };
-		71146EAE4D92E6D828FF2D41 /* TTQRCodeScanner.h in Headers */ = {isa = PBXBuildFile; fileRef = 32C95726F2426B5B27FA110D /* TTQRCodeScanner.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		72B6695D157F0766041319AF /* TTQRCodeScanner.m in Sources */ = {isa = PBXBuildFile; fileRef = AE152B8C40812FEA97BBD775 /* TTQRCodeScanner.m */; };
-		78EBA7EBE175787ED0242F6B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03081C74695D6A9F028B48F2 /* Foundation.framework */; };
-		7BC7D5E29288AA336A0FC842 /* Pods-TTQRCodeScanner_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 70FE113748B48D25F0AF39EA /* Pods-TTQRCodeScanner_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8428162EC20606FEBAF3A1A5 /* TTQRCodeScanner.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F5E3746F0A4737B0B5CADD73 /* TTQRCodeScanner.bundle */; };
-		8B8B09C2E2A274334893BA28 /* TTQRCodeScanner.h in Headers */ = {isa = PBXBuildFile; fileRef = 32C95726F2426B5B27FA110D /* TTQRCodeScanner.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A33FF99EC7CD460E6654ED89 /* TTPlayAudio.h in Headers */ = {isa = PBXBuildFile; fileRef = 315889F1CDF6A92D54C4AE09 /* TTPlayAudio.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		ABFF9F55DF142BABB6F4971D /* TTQRCodeScanner.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 77C5320EF1D0B15B59608760 /* TTQRCodeScanner.bundle */; };
-		B25F88B7A2D4ABC2498EFFE3 /* TTPlayAudio.h in Headers */ = {isa = PBXBuildFile; fileRef = 315889F1CDF6A92D54C4AE09 /* TTPlayAudio.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B906DC9996A77BF00A9875B5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03081C74695D6A9F028B48F2 /* Foundation.framework */; };
-		BF18E6658011EF0AC1CB6B65 /* Pods-TTQRCodeScanner_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DC9BA31E7C938B63AC877A6D /* Pods-TTQRCodeScanner_Tests-dummy.m */; };
-		CEAA9338525421059266100A /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 10C6BB84EF8A587E95114D23 /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E0315F64C20D4D6A1EFE59A7 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0087952E1C6B5FA5B485A5C8 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-dummy.m */; };
-		EA58CC9431004DCD0D0F988D /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BF6232F7796CF8481AD381A4 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F45DE16BD5C4EA10C6C71277 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03081C74695D6A9F028B48F2 /* Foundation.framework */; };
+		299A830FC591BA5BC7C277B5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C0CA8DB42794F58F9D4C78A /* Foundation.framework */; };
+		2AA2D28C8082E16E1C565E59 /* TTPlayAudio.h in Headers */ = {isa = PBXBuildFile; fileRef = 8839D84C5351E96ECA570303 /* TTPlayAudio.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4A945FEC77B77953FA850EFE /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 48149149327024AC24C411C2 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5B7470A79A7014BB37B1EC82 /* Pods-TTQRCodeScanner_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D022E3B756D32DF5C2E2D7C /* Pods-TTQRCodeScanner_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		66D2AEAC9256600CAA855DDD /* TTQRCodeScanner.bundle in Resources */ = {isa = PBXBuildFile; fileRef = FC3EEBA9C2D4E148C070BBD2 /* TTQRCodeScanner.bundle */; };
+		7577BE28149F2478E3CBB4C6 /* Pods-TTQRCodeScanner_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 587C7838EEFB20B76328DA7D /* Pods-TTQRCodeScanner_Tests-dummy.m */; };
+		917206193CDB7CE53CEAF883 /* TTPlayAudio.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D99FF62BD9006A2C1E230CE /* TTPlayAudio.m */; };
+		9C5F86586FBCE7C3C1BA77FF /* TTPlayAudio.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D99FF62BD9006A2C1E230CE /* TTPlayAudio.m */; };
+		AC61A3EC7F318C490BCB177A /* TTQRCodeScanner.h in Headers */ = {isa = PBXBuildFile; fileRef = F50B8775B5B43DBE20325311 /* TTQRCodeScanner.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B88DBEC1BDBFE684DD99124D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C0CA8DB42794F58F9D4C78A /* Foundation.framework */; };
+		BC66E1871142D0D79AEEDA69 /* Pods-TTQRCodeScanner_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7E49C3F656A8BF6086493559 /* Pods-TTQRCodeScanner_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BC67E250389E601D08C913B6 /* TTQRCodeScanner.bundle in Resources */ = {isa = PBXBuildFile; fileRef = C3C652D58554E21AABE9A816 /* TTQRCodeScanner.bundle */; };
+		C356F658C28042BA039AAE8C /* TTQRCodeScanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 920A949C71544BEE1E899923 /* TTQRCodeScanner.m */; };
+		C76F4C4949CDB2F71D63B7EE /* TTQRCodeScanner.h in Headers */ = {isa = PBXBuildFile; fileRef = F50B8775B5B43DBE20325311 /* TTQRCodeScanner.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D3C20FD5D57886DB97A38766 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A24735E20E3ADC801EA59318 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-dummy.m */; };
+		D781D79614380DC28EB4614A /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C2536B85ECB56C41E5989BA2 /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-dummy.m */; };
+		D9EA9BEA126184B97434224E /* TTQRCodeScanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 920A949C71544BEE1E899923 /* TTQRCodeScanner.m */; };
+		DBE19639FF5EB4297E6B93BA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C0CA8DB42794F58F9D4C78A /* Foundation.framework */; };
+		E4C726EC8B549EB67B0BED2E /* Pods-TTQRCodeScanner_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D04674F72293AC30A96BBB72 /* Pods-TTQRCodeScanner_Example-dummy.m */; };
+		E72DFBC175326D1628FE8C3B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C0CA8DB42794F58F9D4C78A /* Foundation.framework */; };
+		E74DD116158B8F39CB3CC2EB /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9243D203CD1A3D5B7A41116D /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F1EDD044861096F3C913C368 /* TTPlayAudio.h in Headers */ = {isa = PBXBuildFile; fileRef = 8839D84C5351E96ECA570303 /* TTPlayAudio.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		0A57CC2BD3B7F4CD4EAC13B9 /* PBXContainerItemProxy */ = {
+		17AFADD82288A4A1A0C840C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 86EEA10183A30422F61ABFC9 /* Project object */;
+			containerPortal = 769E8677EA981C558EBBA007 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = A87DA4DEB988D8838B27B960;
-			remoteInfo = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner";
-		};
-		2F98AE9C20DB9ADE01E3A564 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 86EEA10183A30422F61ABFC9 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 67ACFA0FA1D5BEA0776B794A;
+			remoteGlobalIDString = C224A283E0B8D729456E136A;
 			remoteInfo = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-TTQRCodeScanner";
 		};
-		673E759652DC33B9BA8FB62D /* PBXContainerItemProxy */ = {
+		72DCDAE13A5909FF248A2622 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 86EEA10183A30422F61ABFC9 /* Project object */;
+			containerPortal = 769E8677EA981C558EBBA007 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 9626BAEC60BB9B7AD554931A;
+			remoteGlobalIDString = EE8E595BD73EFFE09307B676;
+			remoteInfo = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner";
+		};
+		7F479A00D6D0363F46D047E8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 769E8677EA981C558EBBA007 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B9145D8E0FF51E4BA0A180E6;
 			remoteInfo = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner-TTQRCodeScanner";
 		};
-		C7FB107C0DABD56EF352C263 /* PBXContainerItemProxy */ = {
+		BA44FCC10211684DA043A260 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 86EEA10183A30422F61ABFC9 /* Project object */;
+			containerPortal = 769E8677EA981C558EBBA007 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 65BADA22350435934516288C;
+			remoteGlobalIDString = E19A3F6B470494E2EC60DF79;
 			remoteInfo = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0030E712E49650FAAFE03A51 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = Info.plist; path = "../Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Info.plist"; sourceTree = "<group>"; };
-		004A330A67A956A17031D482 /* Pods-TTQRCodeScanner_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TTQRCodeScanner_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		0087952E1C6B5FA5B485A5C8 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner-dummy.m"; sourceTree = "<group>"; };
-		03081C74695D6A9F028B48F2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		07F07464DDC6606292B2F400 /* Pods-TTQRCodeScanner_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-TTQRCodeScanner_Example.modulemap"; sourceTree = "<group>"; };
-		0BC5093A293032BF1848F0F5 /* Pods-TTQRCodeScanner_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TTQRCodeScanner_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		10C6BB84EF8A587E95114D23 /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-umbrella.h"; path = "../Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-umbrella.h"; sourceTree = "<group>"; };
-		209239FD8D9DE58B71B94613 /* TTQRCodeScanner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TTQRCodeScanner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2586CDB387C407CFA996D061 /* TTQRCodeScanner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TTQRCodeScanner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		262CCD2A1AC76E2C43A7E112 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner-Private.xcconfig"; sourceTree = "<group>"; };
-		290D8C96E3876B105008B228 /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-dummy.m"; path = "../Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-dummy.m"; sourceTree = "<group>"; };
-		315889F1CDF6A92D54C4AE09 /* TTPlayAudio.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TTPlayAudio.h; sourceTree = "<group>"; };
-		31DA9DEBAA68BCE5AADBF5EC /* Pods-TTQRCodeScanner_Tests-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TTQRCodeScanner_Tests-environment.h"; sourceTree = "<group>"; };
-		32C95726F2426B5B27FA110D /* TTQRCodeScanner.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TTQRCodeScanner.h; sourceTree = "<group>"; };
-		3D94C2F3AEE246322F086EFA /* Pods-TTQRCodeScanner_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TTQRCodeScanner_Example-dummy.m"; sourceTree = "<group>"; };
-		3E138234A549CC0CF88A6CC1 /* Pods-TTQRCodeScanner_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TTQRCodeScanner_Example-resources.sh"; sourceTree = "<group>"; };
-		49F1E533E13C24E43C71D5ED /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-Private.xcconfig"; path = "../Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-Private.xcconfig"; sourceTree = "<group>"; };
-		4A639222AB1F1AAB427BD72F /* Pods-TTQRCodeScanner_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTQRCodeScanner_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		4F8079E1BBA5A8E7AFDEEBDB /* Pods-TTQRCodeScanner_Example-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TTQRCodeScanner_Example-environment.h"; sourceTree = "<group>"; };
-		556C390B304BAB984065EC4F /* Pods-TTQRCodeScanner_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TTQRCodeScanner_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		5A821226E63C441FBB873093 /* Pods-TTQRCodeScanner_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TTQRCodeScanner_Example-umbrella.h"; sourceTree = "<group>"; };
-		673C03A020532C52B69C149A /* Pods-TTQRCodeScanner_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TTQRCodeScanner_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		70FE113748B48D25F0AF39EA /* Pods-TTQRCodeScanner_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TTQRCodeScanner_Tests-umbrella.h"; sourceTree = "<group>"; };
-		77C5320EF1D0B15B59608760 /* TTQRCodeScanner.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TTQRCodeScanner.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		78276CF689FB0520763E4739 /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-prefix.pch"; path = "../Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-prefix.pch"; sourceTree = "<group>"; };
-		7C4E5B582B7582058F360823 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner.modulemap"; sourceTree = "<group>"; };
-		7D338B2F991EF0FF9EA1B90D /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.xcconfig"; path = "../Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.xcconfig"; sourceTree = "<group>"; };
-		7E7DAE41D5B967EF8BC3D7E0 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner-prefix.pch"; sourceTree = "<group>"; };
-		850C57AFD2679D6F67B3A126 /* Pods-TTQRCodeScanner_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTQRCodeScanner_Example.release.xcconfig"; sourceTree = "<group>"; };
-		8A3899885CA4EE20FF7717AC /* Pods-TTQRCodeScanner_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TTQRCodeScanner_Tests-resources.sh"; sourceTree = "<group>"; };
-		8AF8FE47BDACB1AE1C76F4CD /* Pods-TTQRCodeScanner_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTQRCodeScanner_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		905C290A5AA115336074349A /* Pods_TTQRCodeScanner_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTQRCodeScanner_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		908E18FF5BF598CC229B6A50 /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; name = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.modulemap"; path = "../Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.modulemap"; sourceTree = "<group>"; };
-		926F7AB9828A1C42AE3EE537 /* Pods_TTQRCodeScanner_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTQRCodeScanner_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9580F00C5B16873A5A53220A /* Pods-TTQRCodeScanner_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TTQRCodeScanner_Example-frameworks.sh"; sourceTree = "<group>"; };
-		9F0E79A8255C09056BB32CD2 /* Pods-TTQRCodeScanner_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-TTQRCodeScanner_Tests.modulemap"; sourceTree = "<group>"; };
-		A557346D1D31956BC64AE958 /* Pods-TTQRCodeScanner_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TTQRCodeScanner_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		AE152B8C40812FEA97BBD775 /* TTQRCodeScanner.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TTQRCodeScanner.m; sourceTree = "<group>"; };
-		B7E5D782467938F73EEAF625 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BF6232F7796CF8481AD381A4 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner-umbrella.h"; sourceTree = "<group>"; };
-		C6EF4103F3C73AA65BA97FEF /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C8B7644A1112C5EB7012AA05 /* TTPlayAudio.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TTPlayAudio.m; sourceTree = "<group>"; };
-		DC47AB0504C9CE6C6CA11D24 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DC9BA31E7C938B63AC877A6D /* Pods-TTQRCodeScanner_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TTQRCodeScanner_Tests-dummy.m"; sourceTree = "<group>"; };
-		DE75EAA5B4516B098A91DC48 /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		E57204266F11AF3DC7BF4C60 /* Pods-TTQRCodeScanner_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTQRCodeScanner_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		F5E3746F0A4737B0B5CADD73 /* TTQRCodeScanner.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TTQRCodeScanner.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		FE19021CE712719CEA182811 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner.xcconfig"; sourceTree = "<group>"; };
+		078C8760A69B711FB24242BF /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.xcconfig"; path = "../Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.xcconfig"; sourceTree = "<group>"; };
+		07E28B2CDC3D5E5682AAAC68 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner-Private.xcconfig"; sourceTree = "<group>"; };
+		0DB02611F39335C7E754D1D8 /* Pods-TTQRCodeScanner_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TTQRCodeScanner_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		10487E5C067708BF544F4397 /* Pods-TTQRCodeScanner_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TTQRCodeScanner_Example-frameworks.sh"; sourceTree = "<group>"; };
+		1088B84319929FDA42B439E1 /* Pods-TTQRCodeScanner_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTQRCodeScanner_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		10C04F8F283D79CC92468EB3 /* Pods-TTQRCodeScanner_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TTQRCodeScanner_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		29F30961BA8D15B654E37B31 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner.modulemap"; sourceTree = "<group>"; };
+		31CBCE1080B5E9E76FA65A1A /* Pods-TTQRCodeScanner_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TTQRCodeScanner_Example-resources.sh"; sourceTree = "<group>"; };
+		3D022E3B756D32DF5C2E2D7C /* Pods-TTQRCodeScanner_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TTQRCodeScanner_Example-umbrella.h"; sourceTree = "<group>"; };
+		48149149327024AC24C411C2 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner-umbrella.h"; sourceTree = "<group>"; };
+		5029EA3D3B204C7CF918D6A5 /* Pods-TTQRCodeScanner_Tests-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TTQRCodeScanner_Tests-environment.h"; sourceTree = "<group>"; };
+		57BEFBE9E95B300E3E76E9C9 /* Pods-TTQRCodeScanner_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TTQRCodeScanner_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		587C7838EEFB20B76328DA7D /* Pods-TTQRCodeScanner_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TTQRCodeScanner_Tests-dummy.m"; sourceTree = "<group>"; };
+		5B192A98804E6EF14BFDC895 /* Pods-TTQRCodeScanner_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-TTQRCodeScanner_Example.modulemap"; sourceTree = "<group>"; };
+		6357B909FC481F6184EDB23F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6D99FF62BD9006A2C1E230CE /* TTPlayAudio.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TTPlayAudio.m; sourceTree = "<group>"; };
+		7C0CA8DB42794F58F9D4C78A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		7C2622F3EE47B3F1DF62F084 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = Info.plist; path = "../Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Info.plist"; sourceTree = "<group>"; };
+		7E49C3F656A8BF6086493559 /* Pods-TTQRCodeScanner_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TTQRCodeScanner_Tests-umbrella.h"; sourceTree = "<group>"; };
+		8706BA29560AF05BFC0537F9 /* Pods_TTQRCodeScanner_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTQRCodeScanner_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8839D84C5351E96ECA570303 /* TTPlayAudio.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TTPlayAudio.h; sourceTree = "<group>"; };
+		8D960BAF0B3A542F88FEB62A /* Pods-TTQRCodeScanner_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-TTQRCodeScanner_Tests.modulemap"; sourceTree = "<group>"; };
+		903620AEB70C07799DE733A7 /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		915D8FF2C263E3CB7BA7C7B1 /* Pods-TTQRCodeScanner_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTQRCodeScanner_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		920A949C71544BEE1E899923 /* TTQRCodeScanner.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TTQRCodeScanner.m; sourceTree = "<group>"; };
+		9243D203CD1A3D5B7A41116D /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-umbrella.h"; path = "../Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-umbrella.h"; sourceTree = "<group>"; };
+		996C10DE6963FF154BFF8790 /* Pods_TTQRCodeScanner_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTQRCodeScanner_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9EC60F3330E051BEAC2D0C01 /* TTQRCodeScanner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TTQRCodeScanner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A01444E3A85BDB8858B91D4D /* Pods-TTQRCodeScanner_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TTQRCodeScanner_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		A24735E20E3ADC801EA59318 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner-dummy.m"; sourceTree = "<group>"; };
+		A966B65A9B1B3A44F7CA4F34 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner-prefix.pch"; sourceTree = "<group>"; };
+		B4DA3164ECCDCE415170C3D8 /* Pods-TTQRCodeScanner_Example-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TTQRCodeScanner_Example-environment.h"; sourceTree = "<group>"; };
+		BED1F5B506890ABBBA71DCFC /* TTQRCodeScanner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TTQRCodeScanner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C2536B85ECB56C41E5989BA2 /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-dummy.m"; path = "../Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-dummy.m"; sourceTree = "<group>"; };
+		C2B0E3B761A78F1AB7454D69 /* Pods-TTQRCodeScanner_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TTQRCodeScanner_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		C3C652D58554E21AABE9A816 /* TTQRCodeScanner.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TTQRCodeScanner.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		C9A4ECF5E2E72C5028569DAD /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; name = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.modulemap"; path = "../Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.modulemap"; sourceTree = "<group>"; };
+		CAF0F03A29ADFFB76E2B4364 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner.xcconfig"; sourceTree = "<group>"; };
+		CF21455DD3271D6D495F878A /* Pods-TTQRCodeScanner_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTQRCodeScanner_Example.release.xcconfig"; sourceTree = "<group>"; };
+		D04674F72293AC30A96BBB72 /* Pods-TTQRCodeScanner_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TTQRCodeScanner_Example-dummy.m"; sourceTree = "<group>"; };
+		D3DA1132A051E50DA3419FC6 /* Pods-TTQRCodeScanner_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TTQRCodeScanner_Tests-resources.sh"; sourceTree = "<group>"; };
+		D60932030DD9CDDD1729A94D /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-Private.xcconfig"; path = "../Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-Private.xcconfig"; sourceTree = "<group>"; };
+		D9E9FEF4BB405EC142F2B094 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DBCA448FEFC94EE0A264866C /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-prefix.pch"; path = "../Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-prefix.pch"; sourceTree = "<group>"; };
+		DDCCEA7B1FE5BA8ED2F19DAD /* Pods-TTQRCodeScanner_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTQRCodeScanner_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		DEDDD31204AED5731CF3854A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F50B8775B5B43DBE20325311 /* TTQRCodeScanner.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TTQRCodeScanner.h; sourceTree = "<group>"; };
+		FC3EEBA9C2D4E148C070BBD2 /* TTQRCodeScanner.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TTQRCodeScanner.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1C4EFAB6A351BFC4BC80884F /* Frameworks */ = {
+		162631C2A051BDC6F8B2B0F8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F45DE16BD5C4EA10C6C71277 /* Foundation.framework in Frameworks */,
+				B88DBEC1BDBFE684DD99124D /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		68AC86A8F18E4B3C69EA07F7 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D7262C05506A9D8DC0C03A69 /* Frameworks */ = {
+		3D4DD088D8BEDA3E23BF5D1A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DD14E02FD9A424FA86BC62C0 /* Frameworks */ = {
+		61098FE7A3320455B1A40A6B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				78EBA7EBE175787ED0242F6B /* Foundation.framework in Frameworks */,
+				DBE19639FF5EB4297E6B93BA /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E397017D45ACD574B5A0EDB0 /* Frameworks */ = {
+		B9193B9FA7B17EBC52B72D45 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B906DC9996A77BF00A9875B5 /* Foundation.framework in Frameworks */,
+				299A830FC591BA5BC7C277B5 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F9A1357BC0D64234BD238CF3 /* Frameworks */ = {
+		CAE25EA3C72F1EC9C9B49C6A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				020A44D77310919E4449DA35 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DD522082F5CB538D288D74AF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E72DFBC175326D1628FE8C3B /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4C28663D480F7D75ADB03A36 /* TTQRCodeScanner */ = {
+		120BDCC017650D158D0714F1 = {
 			isa = PBXGroup;
 			children = (
-				8CAFA1AD4F13A9844A032709 /* Pod */,
-				4D098A453E56C469ED897782 /* Support Files */,
+				903620AEB70C07799DE733A7 /* Podfile */,
+				185EF27FAE0DFDD17741E294 /* Development Pods */,
+				E857E00E186C2F69C518ADFF /* Frameworks */,
+				F9D2AEDE4F4E75EA1DF453E0 /* Products */,
+				CAD058EED710BE33BFA6ED44 /* Targets Support Files */,
 			);
-			name = TTQRCodeScanner;
-			path = ../..;
 			sourceTree = "<group>";
 		};
-		4D098A453E56C469ED897782 /* Support Files */ = {
+		185EF27FAE0DFDD17741E294 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				DC47AB0504C9CE6C6CA11D24 /* Info.plist */,
-				0030E712E49650FAAFE03A51 /* Info.plist */,
-				7C4E5B582B7582058F360823 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner.modulemap */,
-				FE19021CE712719CEA182811 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner.xcconfig */,
-				262CCD2A1AC76E2C43A7E112 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-Private.xcconfig */,
-				0087952E1C6B5FA5B485A5C8 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-dummy.m */,
-				7E7DAE41D5B967EF8BC3D7E0 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-prefix.pch */,
-				BF6232F7796CF8481AD381A4 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-umbrella.h */,
-				908E18FF5BF598CC229B6A50 /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.modulemap */,
-				7D338B2F991EF0FF9EA1B90D /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.xcconfig */,
-				49F1E533E13C24E43C71D5ED /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-Private.xcconfig */,
-				290D8C96E3876B105008B228 /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-dummy.m */,
-				78276CF689FB0520763E4739 /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-prefix.pch */,
-				10C6BB84EF8A587E95114D23 /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-umbrella.h */,
+				DE48C7E9A583EC0B43188084 /* TTQRCodeScanner */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		4D6480ABED33C7E3FAD7B64A /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				D9E9FEF4BB405EC142F2B094 /* Info.plist */,
+				7C2622F3EE47B3F1DF62F084 /* Info.plist */,
+				29F30961BA8D15B654E37B31 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner.modulemap */,
+				CAF0F03A29ADFFB76E2B4364 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner.xcconfig */,
+				07E28B2CDC3D5E5682AAAC68 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-Private.xcconfig */,
+				A24735E20E3ADC801EA59318 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-dummy.m */,
+				A966B65A9B1B3A44F7CA4F34 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-prefix.pch */,
+				48149149327024AC24C411C2 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-umbrella.h */,
+				C9A4ECF5E2E72C5028569DAD /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.modulemap */,
+				078C8760A69B711FB24242BF /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.xcconfig */,
+				D60932030DD9CDDD1729A94D /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-Private.xcconfig */,
+				C2536B85ECB56C41E5989BA2 /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-dummy.m */,
+				DBCA448FEFC94EE0A264866C /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-prefix.pch */,
+				9243D203CD1A3D5B7A41116D /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-umbrella.h */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/Pods-TTQRCodeScanner_Example-TTQRCodeScanner";
 			sourceTree = "<group>";
 		};
-		6F576A66AF7A33AEE808C0B7 /* Pods-TTQRCodeScanner_Tests */ = {
+		5055C4C87D0F3E8120DFFC22 /* Pods-TTQRCodeScanner_Example */ = {
 			isa = PBXGroup;
 			children = (
-				B7E5D782467938F73EEAF625 /* Info.plist */,
-				9F0E79A8255C09056BB32CD2 /* Pods-TTQRCodeScanner_Tests.modulemap */,
-				673C03A020532C52B69C149A /* Pods-TTQRCodeScanner_Tests-acknowledgements.markdown */,
-				556C390B304BAB984065EC4F /* Pods-TTQRCodeScanner_Tests-acknowledgements.plist */,
-				DC9BA31E7C938B63AC877A6D /* Pods-TTQRCodeScanner_Tests-dummy.m */,
-				31DA9DEBAA68BCE5AADBF5EC /* Pods-TTQRCodeScanner_Tests-environment.h */,
-				A557346D1D31956BC64AE958 /* Pods-TTQRCodeScanner_Tests-frameworks.sh */,
-				8A3899885CA4EE20FF7717AC /* Pods-TTQRCodeScanner_Tests-resources.sh */,
-				70FE113748B48D25F0AF39EA /* Pods-TTQRCodeScanner_Tests-umbrella.h */,
-				8AF8FE47BDACB1AE1C76F4CD /* Pods-TTQRCodeScanner_Tests.debug.xcconfig */,
-				4A639222AB1F1AAB427BD72F /* Pods-TTQRCodeScanner_Tests.release.xcconfig */,
-			);
-			name = "Pods-TTQRCodeScanner_Tests";
-			path = "Target Support Files/Pods-TTQRCodeScanner_Tests";
-			sourceTree = "<group>";
-		};
-		8CAFA1AD4F13A9844A032709 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				A007342DC88EA1389B1F278B /* Classes */,
-			);
-			path = Pod;
-			sourceTree = "<group>";
-		};
-		995C7B541462ADEB91699ACB /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				DDE5ADC3216889EED5B273C6 /* Pods-TTQRCodeScanner_Example */,
-				6F576A66AF7A33AEE808C0B7 /* Pods-TTQRCodeScanner_Tests */,
-			);
-			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		A007342DC88EA1389B1F278B /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				315889F1CDF6A92D54C4AE09 /* TTPlayAudio.h */,
-				C8B7644A1112C5EB7012AA05 /* TTPlayAudio.m */,
-				32C95726F2426B5B27FA110D /* TTQRCodeScanner.h */,
-				AE152B8C40812FEA97BBD775 /* TTQRCodeScanner.m */,
-			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		A3851CB86367E7B6479A8163 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				C5C66115EAC30D5A208D79BC /* iOS */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		C5C66115EAC30D5A208D79BC /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				03081C74695D6A9F028B48F2 /* Foundation.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
-		CFA1BEBBF001D353F9313DF2 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				4C28663D480F7D75ADB03A36 /* TTQRCodeScanner */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		D37CCD3BA95FE656793D067D = {
-			isa = PBXGroup;
-			children = (
-				DE75EAA5B4516B098A91DC48 /* Podfile */,
-				CFA1BEBBF001D353F9313DF2 /* Development Pods */,
-				A3851CB86367E7B6479A8163 /* Frameworks */,
-				FEF59BEAF2E4519DA8A12C53 /* Products */,
-				995C7B541462ADEB91699ACB /* Targets Support Files */,
-			);
-			sourceTree = "<group>";
-		};
-		DDE5ADC3216889EED5B273C6 /* Pods-TTQRCodeScanner_Example */ = {
-			isa = PBXGroup;
-			children = (
-				C6EF4103F3C73AA65BA97FEF /* Info.plist */,
-				07F07464DDC6606292B2F400 /* Pods-TTQRCodeScanner_Example.modulemap */,
-				004A330A67A956A17031D482 /* Pods-TTQRCodeScanner_Example-acknowledgements.markdown */,
-				0BC5093A293032BF1848F0F5 /* Pods-TTQRCodeScanner_Example-acknowledgements.plist */,
-				3D94C2F3AEE246322F086EFA /* Pods-TTQRCodeScanner_Example-dummy.m */,
-				4F8079E1BBA5A8E7AFDEEBDB /* Pods-TTQRCodeScanner_Example-environment.h */,
-				9580F00C5B16873A5A53220A /* Pods-TTQRCodeScanner_Example-frameworks.sh */,
-				3E138234A549CC0CF88A6CC1 /* Pods-TTQRCodeScanner_Example-resources.sh */,
-				5A821226E63C441FBB873093 /* Pods-TTQRCodeScanner_Example-umbrella.h */,
-				E57204266F11AF3DC7BF4C60 /* Pods-TTQRCodeScanner_Example.debug.xcconfig */,
-				850C57AFD2679D6F67B3A126 /* Pods-TTQRCodeScanner_Example.release.xcconfig */,
+				DEDDD31204AED5731CF3854A /* Info.plist */,
+				5B192A98804E6EF14BFDC895 /* Pods-TTQRCodeScanner_Example.modulemap */,
+				0DB02611F39335C7E754D1D8 /* Pods-TTQRCodeScanner_Example-acknowledgements.markdown */,
+				10C04F8F283D79CC92468EB3 /* Pods-TTQRCodeScanner_Example-acknowledgements.plist */,
+				D04674F72293AC30A96BBB72 /* Pods-TTQRCodeScanner_Example-dummy.m */,
+				B4DA3164ECCDCE415170C3D8 /* Pods-TTQRCodeScanner_Example-environment.h */,
+				10487E5C067708BF544F4397 /* Pods-TTQRCodeScanner_Example-frameworks.sh */,
+				31CBCE1080B5E9E76FA65A1A /* Pods-TTQRCodeScanner_Example-resources.sh */,
+				3D022E3B756D32DF5C2E2D7C /* Pods-TTQRCodeScanner_Example-umbrella.h */,
+				1088B84319929FDA42B439E1 /* Pods-TTQRCodeScanner_Example.debug.xcconfig */,
+				CF21455DD3271D6D495F878A /* Pods-TTQRCodeScanner_Example.release.xcconfig */,
 			);
 			name = "Pods-TTQRCodeScanner_Example";
 			path = "Target Support Files/Pods-TTQRCodeScanner_Example";
 			sourceTree = "<group>";
 		};
-		FEF59BEAF2E4519DA8A12C53 /* Products */ = {
+		621F576400924EBB58DFDD55 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				905C290A5AA115336074349A /* Pods_TTQRCodeScanner_Example.framework */,
-				926F7AB9828A1C42AE3EE537 /* Pods_TTQRCodeScanner_Tests.framework */,
-				F5E3746F0A4737B0B5CADD73 /* TTQRCodeScanner.bundle */,
-				77C5320EF1D0B15B59608760 /* TTQRCodeScanner.bundle */,
-				209239FD8D9DE58B71B94613 /* TTQRCodeScanner.framework */,
-				2586CDB387C407CFA996D061 /* TTQRCodeScanner.framework */,
+				7C0CA8DB42794F58F9D4C78A /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		676CAEF5BC9E59D7B14FC5FB /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				8839D84C5351E96ECA570303 /* TTPlayAudio.h */,
+				6D99FF62BD9006A2C1E230CE /* TTPlayAudio.m */,
+				F50B8775B5B43DBE20325311 /* TTQRCodeScanner.h */,
+				920A949C71544BEE1E899923 /* TTQRCodeScanner.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		C7FA6E9BD8654B24882C892E /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				676CAEF5BC9E59D7B14FC5FB /* Classes */,
+			);
+			path = Pod;
+			sourceTree = "<group>";
+		};
+		C95C6FFDF31669396FF90F68 /* Pods-TTQRCodeScanner_Tests */ = {
+			isa = PBXGroup;
+			children = (
+				6357B909FC481F6184EDB23F /* Info.plist */,
+				8D960BAF0B3A542F88FEB62A /* Pods-TTQRCodeScanner_Tests.modulemap */,
+				C2B0E3B761A78F1AB7454D69 /* Pods-TTQRCodeScanner_Tests-acknowledgements.markdown */,
+				A01444E3A85BDB8858B91D4D /* Pods-TTQRCodeScanner_Tests-acknowledgements.plist */,
+				587C7838EEFB20B76328DA7D /* Pods-TTQRCodeScanner_Tests-dummy.m */,
+				5029EA3D3B204C7CF918D6A5 /* Pods-TTQRCodeScanner_Tests-environment.h */,
+				57BEFBE9E95B300E3E76E9C9 /* Pods-TTQRCodeScanner_Tests-frameworks.sh */,
+				D3DA1132A051E50DA3419FC6 /* Pods-TTQRCodeScanner_Tests-resources.sh */,
+				7E49C3F656A8BF6086493559 /* Pods-TTQRCodeScanner_Tests-umbrella.h */,
+				DDCCEA7B1FE5BA8ED2F19DAD /* Pods-TTQRCodeScanner_Tests.debug.xcconfig */,
+				915D8FF2C263E3CB7BA7C7B1 /* Pods-TTQRCodeScanner_Tests.release.xcconfig */,
+			);
+			name = "Pods-TTQRCodeScanner_Tests";
+			path = "Target Support Files/Pods-TTQRCodeScanner_Tests";
+			sourceTree = "<group>";
+		};
+		CAD058EED710BE33BFA6ED44 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				5055C4C87D0F3E8120DFFC22 /* Pods-TTQRCodeScanner_Example */,
+				C95C6FFDF31669396FF90F68 /* Pods-TTQRCodeScanner_Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		DE48C7E9A583EC0B43188084 /* TTQRCodeScanner */ = {
+			isa = PBXGroup;
+			children = (
+				C7FA6E9BD8654B24882C892E /* Pod */,
+				4D6480ABED33C7E3FAD7B64A /* Support Files */,
+			);
+			name = TTQRCodeScanner;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		E857E00E186C2F69C518ADFF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				621F576400924EBB58DFDD55 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F9D2AEDE4F4E75EA1DF453E0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8706BA29560AF05BFC0537F9 /* Pods_TTQRCodeScanner_Example.framework */,
+				996C10DE6963FF154BFF8790 /* Pods_TTQRCodeScanner_Tests.framework */,
+				C3C652D58554E21AABE9A816 /* TTQRCodeScanner.bundle */,
+				FC3EEBA9C2D4E148C070BBD2 /* TTQRCodeScanner.bundle */,
+				9EC60F3330E051BEAC2D0C01 /* TTQRCodeScanner.framework */,
+				BED1F5B506890ABBBA71DCFC /* TTQRCodeScanner.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -312,88 +312,88 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		1B58C22B023FFB5CE8BE35C3 /* Headers */ = {
+		22F22649FE51116D5EF63332 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EA58CC9431004DCD0D0F988D /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-umbrella.h in Headers */,
-				B25F88B7A2D4ABC2498EFFE3 /* TTPlayAudio.h in Headers */,
-				8B8B09C2E2A274334893BA28 /* TTQRCodeScanner.h in Headers */,
+				4A945FEC77B77953FA850EFE /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-umbrella.h in Headers */,
+				F1EDD044861096F3C913C368 /* TTPlayAudio.h in Headers */,
+				AC61A3EC7F318C490BCB177A /* TTQRCodeScanner.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8E171323ADCED0A3F68E7CA8 /* Headers */ = {
+		5D47F3DE490ABB08EED17EB3 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CEAA9338525421059266100A /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-umbrella.h in Headers */,
-				A33FF99EC7CD460E6654ED89 /* TTPlayAudio.h in Headers */,
-				71146EAE4D92E6D828FF2D41 /* TTQRCodeScanner.h in Headers */,
+				BC66E1871142D0D79AEEDA69 /* Pods-TTQRCodeScanner_Tests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A8C3308C71BC363D331A9E11 /* Headers */ = {
+		CCDB10B465067F32994E59E5 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				19A463B68064B3794386B6C3 /* Pods-TTQRCodeScanner_Example-umbrella.h in Headers */,
+				5B7470A79A7014BB37B1EC82 /* Pods-TTQRCodeScanner_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F567D1121F140CAB72910933 /* Headers */ = {
+		EE3122E69D1A4013191C5224 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7BC7D5E29288AA336A0FC842 /* Pods-TTQRCodeScanner_Tests-umbrella.h in Headers */,
+				E74DD116158B8F39CB3CC2EB /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-umbrella.h in Headers */,
+				2AA2D28C8082E16E1C565E59 /* TTPlayAudio.h in Headers */,
+				C76F4C4949CDB2F71D63B7EE /* TTQRCodeScanner.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		65BADA22350435934516288C /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner */ = {
+		AB75CFBA662E4B122AB20259 /* Pods-TTQRCodeScanner_Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ED3A49EE918C3B32D71A99FA /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner" */;
+			buildConfigurationList = 4255FCD145A5993006FD97B9 /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Example" */;
 			buildPhases = (
-				259333414E04A8F3FC0CC242 /* Sources */,
-				DD14E02FD9A424FA86BC62C0 /* Frameworks */,
-				2DD553514797A55B58664E33 /* Resources */,
-				8E171323ADCED0A3F68E7CA8 /* Headers */,
+				AF95ED227F8BDAF3C5DC77C2 /* Sources */,
+				B9193B9FA7B17EBC52B72D45 /* Frameworks */,
+				CCDB10B465067F32994E59E5 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				6F05638A8EB15332A5FC3714 /* PBXTargetDependency */,
+				48DE4ACBEED87DE79002C800 /* PBXTargetDependency */,
 			);
-			name = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner";
-			productName = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner";
-			productReference = 209239FD8D9DE58B71B94613 /* TTQRCodeScanner.framework */;
+			name = "Pods-TTQRCodeScanner_Example";
+			productName = "Pods-TTQRCodeScanner_Example";
+			productReference = 8706BA29560AF05BFC0537F9 /* Pods_TTQRCodeScanner_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		67ACFA0FA1D5BEA0776B794A /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-TTQRCodeScanner */ = {
+		B0F6504A387FF9C3074565DA /* Pods-TTQRCodeScanner_Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E41D3780B4EB9A6F2874CF7F /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-TTQRCodeScanner" */;
+			buildConfigurationList = 4360997E9EBE933D75296F95 /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Tests" */;
 			buildPhases = (
-				DA1ED66E5B252637463902A3 /* Sources */,
-				68AC86A8F18E4B3C69EA07F7 /* Frameworks */,
-				84E8FE816DD8CC962F798D3A /* Resources */,
+				4D7854D9FAC1FA6124B52F85 /* Sources */,
+				DD522082F5CB538D288D74AF /* Frameworks */,
+				5D47F3DE490ABB08EED17EB3 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				6FB709539C3E6A93B8267D3F /* PBXTargetDependency */,
 			);
-			name = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-TTQRCodeScanner";
-			productName = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-TTQRCodeScanner";
-			productReference = 77C5320EF1D0B15B59608760 /* TTQRCodeScanner.bundle */;
-			productType = "com.apple.product-type.bundle";
+			name = "Pods-TTQRCodeScanner_Tests";
+			productName = "Pods-TTQRCodeScanner_Tests";
+			productReference = 996C10DE6963FF154BFF8790 /* Pods_TTQRCodeScanner_Tests.framework */;
+			productType = "com.apple.product-type.framework";
 		};
-		9626BAEC60BB9B7AD554931A /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-TTQRCodeScanner */ = {
+		B9145D8E0FF51E4BA0A180E6 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-TTQRCodeScanner */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 83E730304E5A7A6797737FCC /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Example-TTQRCodeScanner-TTQRCodeScanner" */;
+			buildConfigurationList = C91E98FD4B7BFB3A7F9AEB33 /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Example-TTQRCodeScanner-TTQRCodeScanner" */;
 			buildPhases = (
-				C70D695CA8532463AD3F9C5E /* Sources */,
-				D7262C05506A9D8DC0C03A69 /* Frameworks */,
-				3E11A7D723EB2019E7CB8361 /* Resources */,
+				6B3EAE143830C2A98E41D375 /* Sources */,
+				3D4DD088D8BEDA3E23BF5D1A /* Frameworks */,
+				F7BE8BCB8D185BC15151C9E1 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -401,119 +401,119 @@
 			);
 			name = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner-TTQRCodeScanner";
 			productName = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner-TTQRCodeScanner";
-			productReference = F5E3746F0A4737B0B5CADD73 /* TTQRCodeScanner.bundle */;
+			productReference = C3C652D58554E21AABE9A816 /* TTQRCodeScanner.bundle */;
 			productType = "com.apple.product-type.bundle";
 		};
-		A73EB4DB5FBED3221972428F /* Pods-TTQRCodeScanner_Tests */ = {
+		C224A283E0B8D729456E136A /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-TTQRCodeScanner */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F74EE0B724E7BFD8B1858CD2 /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Tests" */;
+			buildConfigurationList = BF728D38A621B0EC1D3388F9 /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-TTQRCodeScanner" */;
 			buildPhases = (
-				509A45D637CEDF327C6934A6 /* Sources */,
-				E397017D45ACD574B5A0EDB0 /* Frameworks */,
-				F567D1121F140CAB72910933 /* Headers */,
+				2947F3BA6FAF4B09DF003867 /* Sources */,
+				CAE25EA3C72F1EC9C9B49C6A /* Frameworks */,
+				FC76453BE3DBF977DC94AB7A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				890911B1628B20F7B36B9073 /* PBXTargetDependency */,
 			);
-			name = "Pods-TTQRCodeScanner_Tests";
-			productName = "Pods-TTQRCodeScanner_Tests";
-			productReference = 926F7AB9828A1C42AE3EE537 /* Pods_TTQRCodeScanner_Tests.framework */;
+			name = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-TTQRCodeScanner";
+			productName = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-TTQRCodeScanner";
+			productReference = FC3EEBA9C2D4E148C070BBD2 /* TTQRCodeScanner.bundle */;
+			productType = "com.apple.product-type.bundle";
+		};
+		E19A3F6B470494E2EC60DF79 /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BAF64A2F31887BBC54E05620 /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner" */;
+			buildPhases = (
+				B41B81CFCB520C7191BCFB90 /* Sources */,
+				61098FE7A3320455B1A40A6B /* Frameworks */,
+				69E7D0235AEC59B83821D1D3 /* Resources */,
+				EE3122E69D1A4013191C5224 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				16C75B2A2E76C5DC73A5A0D8 /* PBXTargetDependency */,
+			);
+			name = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner";
+			productName = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner";
+			productReference = 9EC60F3330E051BEAC2D0C01 /* TTQRCodeScanner.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		A87DA4DEB988D8838B27B960 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner */ = {
+		EE8E595BD73EFFE09307B676 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0D36DA3F59489ACF5DE40E1D /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Example-TTQRCodeScanner" */;
+			buildConfigurationList = FDCCFD3E5FBBF10834BDF373 /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Example-TTQRCodeScanner" */;
 			buildPhases = (
-				7B7C196A7CFFBB2CB0B768EA /* Sources */,
-				1C4EFAB6A351BFC4BC80884F /* Frameworks */,
-				104D374F6FB6C5B9F2A5A607 /* Resources */,
-				1B58C22B023FFB5CE8BE35C3 /* Headers */,
+				CCB66C65644BD911340F93F2 /* Sources */,
+				162631C2A051BDC6F8B2B0F8 /* Frameworks */,
+				6394A5F99FD28E1056ECB0BC /* Resources */,
+				22F22649FE51116D5EF63332 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				163B7F8E8C2C3D015D59F1A3 /* PBXTargetDependency */,
+				5BF7792FE530238F262EB03C /* PBXTargetDependency */,
 			);
 			name = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner";
 			productName = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner";
-			productReference = 2586CDB387C407CFA996D061 /* TTQRCodeScanner.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		E2906241B4ABCA75E6B9F3C7 /* Pods-TTQRCodeScanner_Example */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = B72BC158CDA155465DA1362F /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Example" */;
-			buildPhases = (
-				35DE7A94A4B3FC5436AF582C /* Sources */,
-				F9A1357BC0D64234BD238CF3 /* Frameworks */,
-				A8C3308C71BC363D331A9E11 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				1F95F7048ABB5A6B0C60097D /* PBXTargetDependency */,
-			);
-			name = "Pods-TTQRCodeScanner_Example";
-			productName = "Pods-TTQRCodeScanner_Example";
-			productReference = 905C290A5AA115336074349A /* Pods_TTQRCodeScanner_Example.framework */;
+			productReference = BED1F5B506890ABBBA71DCFC /* TTQRCodeScanner.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		86EEA10183A30422F61ABFC9 /* Project object */ = {
+		769E8677EA981C558EBBA007 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0640;
 			};
-			buildConfigurationList = CD6EB9067416255B56AD69F6 /* Build configuration list for PBXProject "Pods" */;
+			buildConfigurationList = 3844E2FC7F85CB785CF66EBD /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = D37CCD3BA95FE656793D067D;
-			productRefGroup = FEF59BEAF2E4519DA8A12C53 /* Products */;
+			mainGroup = 120BDCC017650D158D0714F1;
+			productRefGroup = F9D2AEDE4F4E75EA1DF453E0 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E2906241B4ABCA75E6B9F3C7 /* Pods-TTQRCodeScanner_Example */,
-				A87DA4DEB988D8838B27B960 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner */,
-				9626BAEC60BB9B7AD554931A /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-TTQRCodeScanner */,
-				A73EB4DB5FBED3221972428F /* Pods-TTQRCodeScanner_Tests */,
-				65BADA22350435934516288C /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner */,
-				67ACFA0FA1D5BEA0776B794A /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-TTQRCodeScanner */,
+				AB75CFBA662E4B122AB20259 /* Pods-TTQRCodeScanner_Example */,
+				EE8E595BD73EFFE09307B676 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner */,
+				B9145D8E0FF51E4BA0A180E6 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-TTQRCodeScanner */,
+				B0F6504A387FF9C3074565DA /* Pods-TTQRCodeScanner_Tests */,
+				E19A3F6B470494E2EC60DF79 /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner */,
+				C224A283E0B8D729456E136A /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-TTQRCodeScanner */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		104D374F6FB6C5B9F2A5A607 /* Resources */ = {
+		6394A5F99FD28E1056ECB0BC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8428162EC20606FEBAF3A1A5 /* TTQRCodeScanner.bundle in Resources */,
+				BC67E250389E601D08C913B6 /* TTQRCodeScanner.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2DD553514797A55B58664E33 /* Resources */ = {
+		69E7D0235AEC59B83821D1D3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ABFF9F55DF142BABB6F4971D /* TTQRCodeScanner.bundle in Resources */,
+				66D2AEAC9256600CAA855DDD /* TTQRCodeScanner.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3E11A7D723EB2019E7CB8361 /* Resources */ = {
+		F7BE8BCB8D185BC15151C9E1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		84E8FE816DD8CC962F798D3A /* Resources */ = {
+		FC76453BE3DBF977DC94AB7A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -523,118 +523,89 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		259333414E04A8F3FC0CC242 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				1366C724F3BF7235EFB2910C /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-dummy.m in Sources */,
-				2F688D8665F64910A0FD8223 /* TTPlayAudio.m in Sources */,
-				72B6695D157F0766041319AF /* TTQRCodeScanner.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		35DE7A94A4B3FC5436AF582C /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				5DC959B7982F0991B0874EEC /* Pods-TTQRCodeScanner_Example-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		509A45D637CEDF327C6934A6 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				BF18E6658011EF0AC1CB6B65 /* Pods-TTQRCodeScanner_Tests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		7B7C196A7CFFBB2CB0B768EA /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				E0315F64C20D4D6A1EFE59A7 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-dummy.m in Sources */,
-				687389A0DBB0BBFD22277A3C /* TTPlayAudio.m in Sources */,
-				4A23BFFF39376C4F3D1FCE12 /* TTQRCodeScanner.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		C70D695CA8532463AD3F9C5E /* Sources */ = {
+		2947F3BA6FAF4B09DF003867 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DA1ED66E5B252637463902A3 /* Sources */ = {
+		4D7854D9FAC1FA6124B52F85 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7577BE28149F2478E3CBB4C6 /* Pods-TTQRCodeScanner_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6B3EAE143830C2A98E41D375 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AF95ED227F8BDAF3C5DC77C2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E4C726EC8B549EB67B0BED2E /* Pods-TTQRCodeScanner_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B41B81CFCB520C7191BCFB90 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D781D79614380DC28EB4614A /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-dummy.m in Sources */,
+				9C5F86586FBCE7C3C1BA77FF /* TTPlayAudio.m in Sources */,
+				C356F658C28042BA039AAE8C /* TTQRCodeScanner.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CCB66C65644BD911340F93F2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D3C20FD5D57886DB97A38766 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-dummy.m in Sources */,
+				917206193CDB7CE53CEAF883 /* TTPlayAudio.m in Sources */,
+				D9EA9BEA126184B97434224E /* TTQRCodeScanner.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		163B7F8E8C2C3D015D59F1A3 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner-TTQRCodeScanner";
-			target = 9626BAEC60BB9B7AD554931A /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-TTQRCodeScanner */;
-			targetProxy = 673E759652DC33B9BA8FB62D /* PBXContainerItemProxy */;
-		};
-		1F95F7048ABB5A6B0C60097D /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner";
-			target = A87DA4DEB988D8838B27B960 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner */;
-			targetProxy = 0A57CC2BD3B7F4CD4EAC13B9 /* PBXContainerItemProxy */;
-		};
-		6F05638A8EB15332A5FC3714 /* PBXTargetDependency */ = {
+		16C75B2A2E76C5DC73A5A0D8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-TTQRCodeScanner";
-			target = 67ACFA0FA1D5BEA0776B794A /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-TTQRCodeScanner */;
-			targetProxy = 2F98AE9C20DB9ADE01E3A564 /* PBXContainerItemProxy */;
+			target = C224A283E0B8D729456E136A /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-TTQRCodeScanner */;
+			targetProxy = 17AFADD82288A4A1A0C840C7 /* PBXContainerItemProxy */;
 		};
-		890911B1628B20F7B36B9073 /* PBXTargetDependency */ = {
+		48DE4ACBEED87DE79002C800 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner";
+			target = EE8E595BD73EFFE09307B676 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner */;
+			targetProxy = 72DCDAE13A5909FF248A2622 /* PBXContainerItemProxy */;
+		};
+		5BF7792FE530238F262EB03C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-TTQRCodeScanner_Example-TTQRCodeScanner-TTQRCodeScanner";
+			target = B9145D8E0FF51E4BA0A180E6 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-TTQRCodeScanner */;
+			targetProxy = 7F479A00D6D0363F46D047E8 /* PBXContainerItemProxy */;
+		};
+		6FB709539C3E6A93B8267D3F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner";
-			target = 65BADA22350435934516288C /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner */;
-			targetProxy = C7FB107C0DABD56EF352C263 /* PBXContainerItemProxy */;
+			target = E19A3F6B470494E2EC60DF79 /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner */;
+			targetProxy = BA44FCC10211684DA043A260 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		245AF9C1464D8D8DAC6C8BA1 /* Release */ = {
+		13A743F858560D26A59DBCB4 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4A639222AB1F1AAB427BD72F /* Pods-TTQRCodeScanner_Tests.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-TTQRCodeScanner_Tests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Pods-TTQRCodeScanner_Tests/Pods-TTQRCodeScanner_Tests.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = Pods_TTQRCodeScanner_Tests;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		330AFCE032F6D9FA2A150BCE /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8AF8FE47BDACB1AE1C76F4CD /* Pods-TTQRCodeScanner_Tests.debug.xcconfig */;
+			baseConfigurationReference = DDCCEA7B1FE5BA8ED2F19DAD /* Pods-TTQRCodeScanner_Tests.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -661,130 +632,20 @@
 			};
 			name = Debug;
 		};
-		45E8FCED96428F969C874338 /* Debug */ = {
+		2214ED6A3BB759D52FDBB2BB /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 262CCD2A1AC76E2C43A7E112 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-Private.xcconfig */;
+			baseConfigurationReference = D60932030DD9CDDD1729A94D /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-Private.xcconfig */;
 			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/Pods-TTQRCodeScanner_Example-TTQRCodeScanner/Pods-TTQRCodeScanner_Example-TTQRCodeScanner-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/Pods-TTQRCodeScanner_Example-TTQRCodeScanner/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Pods-TTQRCodeScanner_Example-TTQRCodeScanner/Pods-TTQRCodeScanner_Example-TTQRCodeScanner.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = TTQRCodeScanner;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		4B1A77B8B4FE7C0F87095F4C /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 49F1E533E13C24E43C71D5ED /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-Private.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = TTQRCodeScanner;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		4E84AFE2334B7550E7840501 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 262CCD2A1AC76E2C43A7E112 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-Private.xcconfig */;
-			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods-TTQRCodeScanner_Example";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods-TTQRCodeScanner_Tests";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				PRODUCT_NAME = TTQRCodeScanner;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				WRAPPER_EXTENSION = bundle;
 			};
-			name = Debug;
-		};
-		517DC8807F29F7FF8E4FDC46 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 49F1E533E13C24E43C71D5ED /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-Private.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = TTQRCodeScanner;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		597D26F8E149ABA3674F9B47 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 850C57AFD2679D6F67B3A126 /* Pods-TTQRCodeScanner_Example.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-TTQRCodeScanner_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Pods-TTQRCodeScanner_Example/Pods-TTQRCodeScanner_Example.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = Pods_TTQRCodeScanner_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
 			name = Release;
 		};
-		606BE3F9FC245B1B47095F24 /* Debug */ = {
+		6018ACB49DEE607779D9BF31 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -823,102 +684,7 @@
 			};
 			name = Debug;
 		};
-		6FCB75CE73B234CBC1E7F9C5 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E57204266F11AF3DC7BF4C60 /* Pods-TTQRCodeScanner_Example.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-TTQRCodeScanner_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Pods-TTQRCodeScanner_Example/Pods-TTQRCodeScanner_Example.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = Pods_TTQRCodeScanner_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		7C7D84BDBFA061AAEDC022A5 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 49F1E533E13C24E43C71D5ED /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-Private.xcconfig */;
-			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods-TTQRCodeScanner_Tests";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = TTQRCodeScanner;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Debug;
-		};
-		897607F56030308605C3EDC7 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 262CCD2A1AC76E2C43A7E112 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-Private.xcconfig */;
-			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods-TTQRCodeScanner_Example";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = TTQRCodeScanner;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Release;
-		};
-		B8A61EF68A821770312931BB /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 262CCD2A1AC76E2C43A7E112 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-Private.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/Pods-TTQRCodeScanner_Example-TTQRCodeScanner/Pods-TTQRCodeScanner_Example-TTQRCodeScanner-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/Pods-TTQRCodeScanner_Example-TTQRCodeScanner/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Pods-TTQRCodeScanner_Example-TTQRCodeScanner/Pods-TTQRCodeScanner_Example-TTQRCodeScanner.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = TTQRCodeScanner;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		B9DA14D49B263B1900EF9CA0 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 49F1E533E13C24E43C71D5ED /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-Private.xcconfig */;
-			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods-TTQRCodeScanner_Tests";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = TTQRCodeScanner;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Release;
-		};
-		D528C80063B5369DB7B0F5A7 /* Release */ = {
+		763A27DF8654399E3C554B60 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -952,73 +718,307 @@
 			};
 			name = Release;
 		};
+		7D7164FF2AA539EE88753540 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D60932030DD9CDDD1729A94D /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-Private.xcconfig */;
+			buildSettings = {
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods-TTQRCodeScanner_Tests";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				PRODUCT_NAME = TTQRCodeScanner;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+		93DAC1E1DF9F753D3119A447 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = CF21455DD3271D6D495F878A /* Pods-TTQRCodeScanner_Example.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-TTQRCodeScanner_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-TTQRCodeScanner_Example/Pods-TTQRCodeScanner_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_TTQRCodeScanner_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		A9BB43ADC129BAFEA93F1DA4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 07E28B2CDC3D5E5682AAAC68 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-Private.xcconfig */;
+			buildSettings = {
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods-TTQRCodeScanner_Example";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				PRODUCT_NAME = TTQRCodeScanner;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		ABFEF38F74273E73D7B67657 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1088B84319929FDA42B439E1 /* Pods-TTQRCodeScanner_Example.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-TTQRCodeScanner_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-TTQRCodeScanner_Example/Pods-TTQRCodeScanner_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_TTQRCodeScanner_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		B12ABE2328C4BD79D6961C85 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 915D8FF2C263E3CB7BA7C7B1 /* Pods-TTQRCodeScanner_Tests.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-TTQRCodeScanner_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-TTQRCodeScanner_Tests/Pods-TTQRCodeScanner_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_TTQRCodeScanner_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		B4E867160316109D54A6B268 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 07E28B2CDC3D5E5682AAAC68 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-Private.xcconfig */;
+			buildSettings = {
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods-TTQRCodeScanner_Example";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				PRODUCT_NAME = TTQRCodeScanner;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+		D1D04A4D556EA2D353F189E0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D60932030DD9CDDD1729A94D /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = TTQRCodeScanner;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		DC43A7E7E6BBAEEEE2EEE3A0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D60932030DD9CDDD1729A94D /* Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner/Pods-TTQRCodeScanner_Tests-TTQRCodeScanner.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = TTQRCodeScanner;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		E1E2F1906CD3675F0F39C752 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 07E28B2CDC3D5E5682AAAC68 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-TTQRCodeScanner_Example-TTQRCodeScanner/Pods-TTQRCodeScanner_Example-TTQRCodeScanner-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Pods-TTQRCodeScanner_Example-TTQRCodeScanner/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-TTQRCodeScanner_Example-TTQRCodeScanner/Pods-TTQRCodeScanner_Example-TTQRCodeScanner.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = TTQRCodeScanner;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		E9A38600DE22D66FA994A213 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 07E28B2CDC3D5E5682AAAC68 /* Pods-TTQRCodeScanner_Example-TTQRCodeScanner-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-TTQRCodeScanner_Example-TTQRCodeScanner/Pods-TTQRCodeScanner_Example-TTQRCodeScanner-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Pods-TTQRCodeScanner_Example-TTQRCodeScanner/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-TTQRCodeScanner_Example-TTQRCodeScanner/Pods-TTQRCodeScanner_Example-TTQRCodeScanner.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = TTQRCodeScanner;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0D36DA3F59489ACF5DE40E1D /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Example-TTQRCodeScanner" */ = {
+		3844E2FC7F85CB785CF66EBD /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				45E8FCED96428F969C874338 /* Debug */,
-				B8A61EF68A821770312931BB /* Release */,
+				6018ACB49DEE607779D9BF31 /* Debug */,
+				763A27DF8654399E3C554B60 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83E730304E5A7A6797737FCC /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Example-TTQRCodeScanner-TTQRCodeScanner" */ = {
+		4255FCD145A5993006FD97B9 /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4E84AFE2334B7550E7840501 /* Debug */,
-				897607F56030308605C3EDC7 /* Release */,
+				ABFEF38F74273E73D7B67657 /* Debug */,
+				93DAC1E1DF9F753D3119A447 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B72BC158CDA155465DA1362F /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Example" */ = {
+		4360997E9EBE933D75296F95 /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6FCB75CE73B234CBC1E7F9C5 /* Debug */,
-				597D26F8E149ABA3674F9B47 /* Release */,
+				13A743F858560D26A59DBCB4 /* Debug */,
+				B12ABE2328C4BD79D6961C85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CD6EB9067416255B56AD69F6 /* Build configuration list for PBXProject "Pods" */ = {
+		BAF64A2F31887BBC54E05620 /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				606BE3F9FC245B1B47095F24 /* Debug */,
-				D528C80063B5369DB7B0F5A7 /* Release */,
+				D1D04A4D556EA2D353F189E0 /* Debug */,
+				DC43A7E7E6BBAEEEE2EEE3A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E41D3780B4EB9A6F2874CF7F /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-TTQRCodeScanner" */ = {
+		BF728D38A621B0EC1D3388F9 /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner-TTQRCodeScanner" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7C7D84BDBFA061AAEDC022A5 /* Debug */,
-				B9DA14D49B263B1900EF9CA0 /* Release */,
+				7D7164FF2AA539EE88753540 /* Debug */,
+				2214ED6A3BB759D52FDBB2BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		ED3A49EE918C3B32D71A99FA /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner" */ = {
+		C91E98FD4B7BFB3A7F9AEB33 /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Example-TTQRCodeScanner-TTQRCodeScanner" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				517DC8807F29F7FF8E4FDC46 /* Debug */,
-				4B1A77B8B4FE7C0F87095F4C /* Release */,
+				B4E867160316109D54A6B268 /* Debug */,
+				A9BB43ADC129BAFEA93F1DA4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F74EE0B724E7BFD8B1858CD2 /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Tests" */ = {
+		FDCCFD3E5FBBF10834BDF373 /* Build configuration list for PBXNativeTarget "Pods-TTQRCodeScanner_Example-TTQRCodeScanner" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				330AFCE032F6D9FA2A150BCE /* Debug */,
-				245AF9C1464D8D8DAC6C8BA1 /* Release */,
+				E1E2F1906CD3675F0F39C752 /* Debug */,
+				E9A38600DE22D66FA994A213 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 86EEA10183A30422F61ABFC9 /* Project object */;
+	rootObject = 769E8677EA981C558EBBA007 /* Project object */;
 }

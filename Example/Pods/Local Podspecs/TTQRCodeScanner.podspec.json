@@ -1,6 +1,6 @@
 {
   "name": "TTQRCodeScanner",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "summary": "TTQRCodeScanner is a light component that makes scan QRCode or BarCode conveniently.",
   "homepage": "https://github.com/change2hao/TTQRCodeScanner",
   "license": "MIT",
@@ -9,7 +9,7 @@
   },
   "source": {
     "git": "https://github.com/change2hao/TTQRCodeScanner.git",
-    "tag": "1.0.0"
+    "tag": "1.0.1"
   },
   "social_media_url": "https://twitter.com/change2hao",
   "platforms": {

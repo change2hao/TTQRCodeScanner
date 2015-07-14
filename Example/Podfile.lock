@@ -1,5 +1,5 @@
 PODS:
-  - TTQRCodeScanner (0.1.0)
+  - TTQRCodeScanner (1.0.1)
 
 DEPENDENCIES:
   - TTQRCodeScanner (from `../`)
@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  TTQRCodeScanner: c779dc4199ab6c96b1c5987c77b757f92112ef46
+  TTQRCodeScanner: b25ec23efb81cd096738330abefee302d16d97ae
 
 COCOAPODS: 0.37.2

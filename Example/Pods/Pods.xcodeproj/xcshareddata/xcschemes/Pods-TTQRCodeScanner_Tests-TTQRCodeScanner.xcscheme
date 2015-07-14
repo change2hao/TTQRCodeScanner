@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "65BADA22350435934516288C"
+               BlueprintIdentifier = "E19A3F6B470494E2EC60DF79"
                BuildableName = "TTQRCodeScanner.framework"
                BlueprintName = "Pods-TTQRCodeScanner_Tests-TTQRCodeScanner"
                ReferencedContainer = "container:Pods.xcodeproj">

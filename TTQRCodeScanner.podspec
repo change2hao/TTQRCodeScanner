@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "TTQRCodeScanner"
-  s.version          = "0.1.0"
+  s.version          = "1.0.0"
   s.summary          = "TTQRCodeScanner is a light component that makes scan QRCode or BarCode conveniently."
   # s.description      = <<-DESC
                        # An optional longer description of TTQRCodeScanner

@@ -8,6 +8,12 @@
 
 @import UIKit;
 
-@interface TTViewController : UIViewController
+@protocol TTViewControllerDelegate <NSObject>
+
+- (void)ttViewControllerDidScanned:(NSString *)result;
+
+@end
+
+@interface TTViewController : UIViewController <TTViewControllerDelegate>
 
 @end

@@ -22,6 +22,7 @@
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
 		8097082AB685F17139A049FE /* Pods_TTQRCodeScanner_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 64B5F24BC6CD830810C9F247 /* Pods_TTQRCodeScanner_Tests.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
+		999D9B0D1B54FF4000797AA7 /* TTScanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 999D9B0C1B54FF4000797AA7 /* TTScanViewController.m */; };
 		9A6A9F9C378BA400D4CE952E /* Pods_TTQRCodeScanner_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF2E97AB800E7B2FC4B302FC /* Pods_TTQRCodeScanner_Example.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 /* End PBXBuildFile section */
 
@@ -37,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		445B8C7D311E7D0626F67187 /* Pods-TTQRCodeScanner_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTQRCodeScanner_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TTQRCodeScanner_Example/Pods-TTQRCodeScanner_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		6003F58A195388D20070C39A /* TTQRCodeScanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = TTQRCodeScanner.app; path = TTQRCodeScanner_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6003F58A195388D20070C39A /* TTQRCodeScanner_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TTQRCodeScanner_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		6003F591195388D20070C39A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -50,7 +51,7 @@
 		6003F5A5195388D20070C39A /* TTViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TTViewController.h; sourceTree = "<group>"; };
 		6003F5A6195388D20070C39A /* TTViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TTViewController.m; sourceTree = "<group>"; };
 		6003F5A8195388D20070C39A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		6003F5AE195388D20070C39A /* Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Tests.xctest; path = TTQRCodeScanner_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6003F5AE195388D20070C39A /* TTQRCodeScanner_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TTQRCodeScanner_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F5AF195388D20070C39A /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		6003F5B7195388D20070C39A /* Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Tests-Info.plist"; sourceTree = "<group>"; };
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
@@ -62,6 +63,8 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		8C2E7776FD4C07B14FCE9EF2 /* TTQRCodeScanner.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TTQRCodeScanner.podspec; path = ../TTQRCodeScanner.podspec; sourceTree = "<group>"; };
 		965B93DAE114C5318FAF69E2 /* Pods-TTQRCodeScanner_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTQRCodeScanner_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TTQRCodeScanner_Tests/Pods-TTQRCodeScanner_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		999D9B0B1B54FF4000797AA7 /* TTScanViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTScanViewController.h; sourceTree = "<group>"; };
+		999D9B0C1B54FF4000797AA7 /* TTScanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTScanViewController.m; sourceTree = "<group>"; };
 		AD6C6C8B73B786F8DAEFA1BE /* Pods-TTQRCodeScanner_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTQRCodeScanner_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-TTQRCodeScanner_Example/Pods-TTQRCodeScanner_Example.release.xcconfig"; sourceTree = "<group>"; };
 		EA08EF5B6E4EA315A0975338 /* Pods-TTQRCodeScanner_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTQRCodeScanner_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TTQRCodeScanner_Tests/Pods-TTQRCodeScanner_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		FF2E97AB800E7B2FC4B302FC /* Pods_TTQRCodeScanner_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTQRCodeScanner_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -108,8 +111,8 @@
 		6003F58B195388D20070C39A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6003F58A195388D20070C39A /* TTQRCodeScanner.app */,
-				6003F5AE195388D20070C39A /* Tests.xctest */,
+				6003F58A195388D20070C39A /* TTQRCodeScanner_Example.app */,
+				6003F5AE195388D20070C39A /* TTQRCodeScanner_Tests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -130,6 +133,8 @@
 		6003F593195388D20070C39A /* Example for TTQRCodeScanner */ = {
 			isa = PBXGroup;
 			children = (
+				999D9B0B1B54FF4000797AA7 /* TTScanViewController.h */,
+				999D9B0C1B54FF4000797AA7 /* TTScanViewController.m */,
 				6003F59C195388D20070C39A /* TTAppDelegate.h */,
 				6003F59D195388D20070C39A /* TTAppDelegate.m */,
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
@@ -213,7 +218,7 @@
 			);
 			name = TTQRCodeScanner_Example;
 			productName = TTQRCodeScanner;
-			productReference = 6003F58A195388D20070C39A /* TTQRCodeScanner.app */;
+			productReference = 6003F58A195388D20070C39A /* TTQRCodeScanner_Example.app */;
 			productType = "com.apple.product-type.application";
 		};
 		6003F5AD195388D20070C39A /* TTQRCodeScanner_Tests */ = {
@@ -234,7 +239,7 @@
 			);
 			name = TTQRCodeScanner_Tests;
 			productName = TTQRCodeScannerTests;
-			productReference = 6003F5AE195388D20070C39A /* Tests.xctest */;
+			productReference = 6003F5AE195388D20070C39A /* TTQRCodeScanner_Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -391,6 +396,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6003F59E195388D20070C39A /* TTAppDelegate.m in Sources */,
+				999D9B0D1B54FF4000797AA7 /* TTScanViewController.m in Sources */,
 				6003F5A7195388D20070C39A /* TTViewController.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
 			);

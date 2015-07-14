@@ -1,0 +1,6 @@
+framework module Pods_TTQRCodeScanner_Example {
+  umbrella header "Pods-TTQRCodeScanner_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -7,8 +7,11 @@
 //
 
 #import "TTViewController.h"
+#import "TTScanViewController.h"
 
 @interface TTViewController ()
+
+@property (weak, nonatomic) IBOutlet UILabel *resultLabel;
 
 @end
 
@@ -18,6 +21,16 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+}
+
+- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
+    TTScanViewController *scanVC = segue.destinationViewController;
+    scanVC.delegate = self;
+    self.resultLabel.text = @"";
+}
+
+- (void)ttViewControllerDidScanned:(NSString *)result{
+    self.resultLabel.text = result;
 }
 
 - (void)didReceiveMemoryWarning

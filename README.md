@@ -11,6 +11,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+Requires iOS7.0 and later.
+
 ## Installation
 
 TTQRCodeScanner is available through [CocoaPods](http://cocoapods.org). To install

@@ -207,7 +207,7 @@
     if (_isBottom == NO) {
         _num ++;
         _scanerLineView.frame = CGRectMake(_interestRect.origin.x, _interestRect.origin.y+_num, _interestRect.size.width, _scanerLineView.bounds.size.height);
-        if (_num == _interestRect.size.height-_scanerLineView.bounds.size.height) {
+        if (_num >= _interestRect.size.height-_scanerLineView.bounds.size.height) {
             _isBottom = YES;
         }
     }
